@@ -10,6 +10,8 @@ Claudette behaves like most coding agents, it can plan, build, test, and iterate
   <img src="game-image-small.gif" alt="Game demo">
 </p>
 
+After a few more iterations Claudette created a platformer game, learned to play it, and then iterated on its own code until it could finish the game in record time.
+
 > Try it out for yourself!
 >
 > 1. Clone the github repo to get the files
