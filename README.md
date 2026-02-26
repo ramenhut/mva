@@ -12,6 +12,8 @@ Claudette behaves like most coding agents, it can plan, build, test, and iterate
 
 After a few more iterations Claudette created a platformer game, learned to play it, and then iterated on its own code until it could finish the game in record time.
 
+&nbsp;
+
 > Try it out for yourself!
 >
 > 1. Clone the github repo to get the files
@@ -20,6 +22,8 @@ After a few more iterations Claudette created a platformer game, learned to play
 > 4. Run the minimum viable coding agent: python3 mvca.py
 >
 > If you're going to run these agents, I'd suggest using a sandbox. They may create files, folders, and run shell commands. They should ask you for permission, but have been known to misbehave.
+
+&nbsp;
 
 
 Learn more at [bertolami.com](https://www.bertolami.com/blog/minimum-viable-coding-agents).
